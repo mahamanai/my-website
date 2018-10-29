@@ -7,23 +7,12 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "CV"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 8
 
 +++
 
-* **Guest Lecturer**
- * *Microeconomics* (Spring 2014-2016)
- * *Public Finance* (Fall 2016 and Fall 2018)
-
-\
-
-* **Teaching assistant**
-  * *Microeconomics* (Spring 2014-2019)
-  * *Public Finance* (Fall 2016-2018)
-  * *Statistics and Econometrics* (Fall 2017)
-  * *Applied Econometrics* (Spring 2014)
-  * *Empirical Methods* (Spring 2013)
+[Download my CV](https://drive.switch.ch/index.php/s/UItNZzzgf6kmElX) as a pdf.
