@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Labor Economics",
     "Risk Preferences",
-    "Schooling Choices"
+    "Schooling Choices",
+    "Well-being"
   ]
 
 # List your qualifications (such as academic degrees).

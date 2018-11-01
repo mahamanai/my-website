@@ -25,19 +25,19 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Stata"
-  description = "" 
+  description = "Statistics" 
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = ""
+  description = "Statistics"
 
   
 [[feature]]
   icon = "php"
   icon_pack = "fab"
   name = "PHP/MySQL/HTML/CSS"
-  description = "interface for lab experiment"
+  description = "Interface for lab experiments"
 
 +++
