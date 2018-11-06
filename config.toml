@@ -135,7 +135,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
@@ -289,10 +289,10 @@ enableGitInfo = false
 #   url = "#publications_selected"
 #   weight = 2
 #
- [[menu.main]]
-   name = "Posts"
-   url = "#posts"
-   weight = 6
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
