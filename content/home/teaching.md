@@ -15,15 +15,7 @@ weight = 10
 
 +++
 
-* **Guest Lecturer**
- * *Microeconomics* (Spring 2014-2016)
- * *Public Finance* (Fall 2016 and Fall 2018)
+I am currently a teaching assistant for the following two courses:
 
-\
-
-* **Teaching assistant**
-  * *Microeconomics* (Spring 2014-2019)
-  * *Public Finance* (Fall 2016-2018)
-  * *Statistics and Econometrics* (Fall 2017)
-  * *Applied Econometrics* (Spring 2014)
-  * *Empirical Methods* (Spring 2013)
+- [Public Finance](https://hec.unil.ch/docs/index.php/pstamour/cours/394/informations_generales/) (Fall Semester, Office hours on Tuesdays 2-4pm)
+- Microeconomics (Spring Semester)

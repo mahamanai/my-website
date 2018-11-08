@@ -15,4 +15,4 @@ weight = 8
 
 +++
 
-[Download my CV](https://drive.switch.ch/index.php/s/UItNZzzgf6kmElX) as a pdf.
+You can [download my CV](https://drive.switch.ch/index.php/s/UItNZzzgf6kmElX) as a pdf.
