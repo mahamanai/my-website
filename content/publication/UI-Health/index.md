@@ -81,7 +81,7 @@ tags = ["survey data", "fuzzy differences-in-differences"]
 #doi = ""
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
