@@ -37,7 +37,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lab experiment", "finite mixture model"]
+tags = ["lab experiment", "finite mixture model", "Structural model"]
 
 # Links (optional).
 url_pdf = "https://drive.switch.ch/index.php/s/y8KtR40pRKj5P15"
