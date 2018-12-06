@@ -22,7 +22,7 @@ weight = 10
 2018: 
 
 - 1st Carnegie Workshop on Economic Vulnerability, Minnesota
-- Zurich Workshop on Moral and Social Behavior, Zurich
+- Workshop on Moral and Social Behavior, Zurich
 
 2019: 
 
