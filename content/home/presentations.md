@@ -7,21 +7,25 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "Workshops & Conferences"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 11
+weight = 10
 
 +++
 
-I am currently a teaching assistant for the following two courses:
+2016: 
 
-- [Public Finance](https://hec.unil.ch/docs/index.php/pstamour/cours/394/informations_generales/) (Fall Semester, Office hours on Tuesdays 2-4pm)
-- Microeconomics (Spring Semester)
+- 2nd Basel Workshop on Happiness and Economics, Basel
 
-Past Courses:
+2018: 
 
-- Statistics and Econometrics (Bachelor)
-- Applied Econometrics (Master)
-- Empirical Methods (Bachelor)
+- 1st Carnegie Workshop on Economic Vulnerability, Minnesota
+- Zurich Workshop on Moral and Social Behavior, Zurich
+
+2019: 
+
+- Perspectives on (Un-)Employment, Nuremberg
+- 2nd Carnegie Workshop on Economic Vulnerability, Aswan
+- WEAI Tokyo ESA Sessions, Tokyo

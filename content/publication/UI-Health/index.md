@@ -22,22 +22,7 @@ authors = ["R Lalive", "M Manai"]
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = "In the United States, the unemployment insurance (UI) maximum duration is typically 26 weeks. However, in times of economic duress, UI becomes available for longer periods under existing or temporary programs. In particular, Congress voted the Emergency Unemployment Compensation (EUC) program during the Great Recession of 2008. In addition to the already existing Extended Benefits (EB) program, the EUC allowed for up to 99 weeks of potential UI in some states."
-abstract_extended="""
-In the United States, the unemployment insurance (UI) maximum duration is typically 26 weeks. However, in times of economic duress, UI becomes available for longer periods under existing or temporary programs. In particular, Congress voted the Emergency Unemployment Compensation (EUC) program during the Great Recession of 2008. In addition to the already existing Extended Benefits (EB) program, the EUC allowed for up to 99 weeks of potential UI in some states.
-
-In this paper, we focus on the effect of potential UI duration on subjective measures of health (self-reported general health and mental health) to provide a measure of the "intent to treat" (ITT). Our main data is the Behavioral Risk Factor Surveillance System (BRFSS) from the Centers of Disease Control and Prevention (CDC). 
-We expect that higher potential UI duration enhances self-reported general health and decreases the number of days of bad mental health. In addition, we interpret the general health measure as a health report in real time and the mental health measure as a retrospective evaluation of one's health.
-
-Because of the way the changes in UI duration were introduced and modified, the identification poses many challenges. To address these particularities, we differentiate between two types of UI changes, legislation-related and trigger-related changes. In fact, a state could see its potential UI duration altered either because the EUC legislation changed or because its level of unemployment reached a defined threshold.
-
-Analogous to our classification of UI changes, our approach is twofold. First, we propose a descriptive model that compares the outcomes before the bulk of the recession (before EUC was introduced and any EB kicked in) to the period that follows every change in potential UI duration. Second, we identify the effect of trigger-related changes (positive or negative) of UI duration on subjective health through a fuzzy differences-in-differences model introduced by de Chaisemartin and D’Haultfœuille (2017). This model is attractive because it allows for multiple periods and treatment groups.
-
-The descriptive model presents results on the association between UI duration and subjective health that are conform to our anticipations. Even though the prevalence of the Great Recession is expected to worsen the subjective health of the unemployed, we find that self-reported general health is positively correlated with positive changes in potential UI duration and that having more days of bad mental health is negatively correlated with positive changes in potential UI duration.
-
-Our causal findings suggest that trigger-related changes have no significant effect on subjective health. The absence of an effect is not surprising since the trigger-related extensions are less advertised than the legislation changes and only the illegible unemployed workers who need the extensions are notified of these changes. Since we are estimating an ITT, this means that the fraction of the unemployed workers who are benefiting or perceive that they will be benefiting from the changes represent a smaller part of our sample of study compared to legislation-related changes.
-"""
+abstract = "We exploit large changes in the unemployment insurance (UI) maximum duration in the United States to study the effect of having UI for a longer period on self-reported general health and number of days of bad mental health. Using two complementary approaches, a regression discontinuity design at the time of the change in potential UI duration and a fuzzy differences-in-differences approach introduced by de Chaisemartin and D’Haultfœuille (2017), we find that while the most advertised and important changes in potential UI duration have a large negative but noisy effect on the number of bad mental health days, it does not have a significant effect on self-reported general health. Since we interpret the general health measure as a health report in real time and the mental health measure as a retrospective global evaluation of one’s health, we expect larger and more important effects of UI duration on mental health compared to general health (Kahneman et al., 2006)."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -60,7 +45,7 @@ slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["survey data", "fuzzy differences-in-differences"]
+tags = ["survey data", "fuzzy differences-in-differences", "regression discontinuity"]
 
 # Links (optional).
 # url_pdf = ""
@@ -93,4 +78,8 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
- 
+<sup> De Chaisemartin, Clément, and Xavier D’HaultfŒuille. &quot;Fuzzy differences-in-
+differences.&quot; The Review of Economic Studies 85.2 (2017): 999-1028. <sup>
+
+<sup> Kahneman, Daniel, et al. &quot;Would you be happier if you were richer? A focusing illusion.&quot;
+science 312.5782 (2006): 1908-1910. <sup>

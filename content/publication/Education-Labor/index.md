@@ -22,7 +22,7 @@ publication_types = ["0"]
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "In Tunisia, high school graduates are allocated to university programs through a centralized mechanism (a version of the Deferred Acceptance algorithm). Using a regression discontinuity design at the admission score cut-offs, I study the effect of going to a higher ranked program in terms of peer quality on the employability of the student. For the measure of employability, I use data on active labor market programs financed by the Ministry of Vocational Training and Employment and administered by the PEA to provide a measure of the training costs incurred by the government to improve the employability of the university graduates who lack the labor market skills needed to be directly employable after university graduation. Therefore, I expect that going to a lower ranked university program decreases the employability of the job seeker and therefore she would require more training before being able to enter the labor market."
+abstract = "In Tunisia, high school graduates are allocated to university programs through a centralized mechanism (a version of the Deferred Acceptance algorithm). Using a regression discontinuity design at the admission score cut-offs, I study the effect of going to a higher ranked program in terms of peer quality on the use of government-assisted job search. My initial findings point out that education has not effect on the use of government-assisted job search which allows me to argue that there is no selection on the education level when it comes to using the services of the public employment agency."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

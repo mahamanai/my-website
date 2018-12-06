@@ -10,10 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Public Economics",
-    "Decision Making",
-    "Schooling Choices",
-    "Risk Preferences",
+    "Behavioral Economics",
+    "Labor Economics",
+    "Market Design"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,15 +33,12 @@ weight = 5
  
 +++
 
-# About me
+# Welcome
+I am an applied micro-economist in the fields of behavioral economics and labor economics. My secondary field of interest is market design. 
 
-I am an applied microeconomist working in the fields of public and behavioral economics. In my research, I apply a variety of advanced empirical methods using lab experiments, survey and administrative data to examine how individual behavior, decision making and heterogeneity shape different markets. 
+My research applies the economics' approach to human behavior and extends it by including psychological concepts and behavioral biases. This allows me to improve the predictive power of economic theories and to answer policy relevant questions with a focus on the labor market.
 
-[//]: # (My thesis is a collection of three papers in which I demonstrate my)
+Currently, I am finishing my PhD thesis at the University of Lausanne.
 
-[//]: # (My First paper is a natural experiment that uses survey data and a fuzzy differences-in-differences model to examine the health outcomes of a labor market policy aimed at the the unemployed during the Great Recession.)
 
-[//]: # (My second paper relies on an lab experiment and a finite mixture model to identify three types of choice-under-risk decision makers: a rational type and two behavioral types according to the way they perceive probabilities and payoff salience.)
-
-[//]: # (My third paper uses administrative data and a regression discontinuity design to examine the effect of quasi-experimental variations in education on the use of government-assisted job search.)
 
