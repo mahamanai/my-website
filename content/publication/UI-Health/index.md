@@ -55,7 +55,7 @@ tags = ["survey data", "fuzzy differences-in-differences", "regression discontin
 # url_project = ""
 # url_slides = ""
 # url_video = ""
-# url_poster = ""
+url_poster = "https://drive.switch.ch/index.php/s/ip9SBbhIRIMXTre"
 # url_source = ""
 
 # Custom links (optional).

@@ -15,17 +15,20 @@ weight = 10
 
 +++
 
+2019: 
+
+- WEAI Tokyo ESA Sessions, Tokyo
+- Perspectives on (Un-)Employment, Nuremberg
+- 2nd Carnegie Workshop on Economic Vulnerability, Aswan
+
+2018: 
+
+- Workshop on Moral and Social Behavior, Zurich
+- 1st Carnegie Workshop on Economic Vulnerability, Minnesota
+
 2016: 
 
 - 2nd Basel Workshop on Happiness and Economics, Basel
 
-2018: 
 
-- 1st Carnegie Workshop on Economic Vulnerability, Minnesota
-- Workshop on Moral and Social Behavior, Zurich
 
-2019: 
-
-- Perspectives on (Un-)Employment, Nuremberg
-- 2nd Carnegie Workshop on Economic Vulnerability, Aswan
-- WEAI Tokyo ESA Sessions, Tokyo
