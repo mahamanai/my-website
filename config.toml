@@ -307,7 +307,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Talks"
+  name = "Conferences"
   url = "#presentations"
   weight = 4
 

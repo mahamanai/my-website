@@ -78,8 +78,4 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-#<sup> De Chaisemartin, Clément, and Xavier D’HaultfŒuille. &quot;Fuzzy differences-in-
-#differences.&quot; The Review of Economic Studies 85.2 (2017): 999-1028. <sup>
 
-#<sup> Kahneman, Daniel, et al. &quot;Would you be happier if you were richer? A focusing illusion.&quot;
-#science 312.5782 (2006): 1908-1910. <sup>
