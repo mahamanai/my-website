@@ -10,7 +10,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 2
 
 # Showcase personal skills or business features.
 # 
@@ -22,22 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Stata"
-  description = "Statistics" 
-
-[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "Statistics"
 
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Programming" 
   
 [[feature]]
-  icon = "php"
-  icon_pack = "fab"
-  name = "PHP/MySQL/HTML/CSS"
-  description = "Interface for lab experiments"
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "Database"
 
 +++
