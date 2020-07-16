@@ -1,6 +1,6 @@
 +++
-title = "Risk and Rationality: The Relative Weight of Probability Weighting and Choice Set Dependence"
-date = 2018-07-23T00:00:00
+title = "Risk and Rationality: The relative weight of probability weighting and choice set dependence"
+date = 2020-03-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,15 @@ publication = ""
 publication_short = ""
 
 # Abstract:
-abstract = "We analyze the relative importance of probability weighting and choice set dependence in describing risky choices both non-parametrically and with a structural model. Our experimental design uses binary choices between lotteries that may trigger Allais Paradoxes. We change the choice set by manipulating the correlation structure of the lotteries’ payoffs while keeping their marginal distributions constant. This allows us to discriminate between probability weighting and choice set dependence. There are three main results. First, probability weighting and choice set dependence both play a role in describing aggregate choices. Second, the structural model uncovers substantial individual heterogeneity which can be parsimoniously characterized by three types: 38% of subjects engage primarily in probability weighting, 34% are influenced predominantly by choice set dependence, and 28% are mostly rational. Third, the classification of subjects into types predicts preference reversals out-of-sample. These results may not only further our understanding of choice under risk but may also prove valuable for describing the behavior of consumers, investors, and judges."
+abstract = """
+The literature suggests that probability weighting and choice set dependence influence risky choices. However, their relative importance has not been tested jointly. We present a joint test that uses binary choices between lotteries provoking Common Consequence and Common Ratio Allais Paradoxes and manipulates their correlation structure. 
+
+We show non-parametrically that probability weighting and choice set dependence both play a role at describing aggregate choices. To parsimoniously account for heterogeneity, we also estimate a structural model using a finite mixture approach. The model uncovers substantial heterogeneity and classifies subjects into three types: 38% Prospect Theory types whose choices are predominantly driven by probability weighting, 34% Salience Theory types whose choices are predominantly driven by choice set dependence, and 28% Expected Utility Theory types. 
+
+The model predicts type-specific differences in the frequency of preference reversals out-of-sample, i.e., in choices with a different context than the ones used for estimating the model. Moreover, the out-of-sample predictions indicate that the choice context shapes the influence of choice set dependence.
+"""
+abstract_short = "We classify the subjects of an experiment into three types according to their profile of choice under risk."
+
 
 # Is this a selected publication? (true/false)
 selected = true

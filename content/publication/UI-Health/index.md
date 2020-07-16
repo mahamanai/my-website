@@ -1,10 +1,10 @@
 +++
-title = "Unemployment Insurance Duration and Subjective Health"
-date = 2018-10-01T00:00:00
+title = "Do extended unemployment benefits duration improve individual health?"
+date = 2020-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R Lalive", "M Manai"]
+authors = ["M Manai"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,14 @@ authors = ["R Lalive", "M Manai"]
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "During the Great Recession, the United States introduced a temporary program that allows to extend the duration of unemployment insurance. In this paper, we ask if these extensions contributed to better health or perception of one’s health. To answer this question, we differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. On the one hand, estimates from two different models suggest that extending benefits only enhance mental health but this result is mostly mitigated by low precision. On the other hand, cutting all income assistance at once at the expiry of the program affected negatively the health of long term unemployed by 14%. In this analysis, we distinguish between two types of extensions in two different models. The first model consists on a regression discountinuity approach where time is the running variable and the treatment corresponds to the introduction/expiry of the extended benefits policy in all United States. Whilst the second model, a difference-in-differences framework, focuses on the effect of conditional treatment in the form of additional weeks of coverage in certain states that reach a pre-determined high level of unemployment."
+abstract = """
+During the Great Recession, the United States introduced a temporary program that allowed to extend the duration of unemployment benefits. I ask if these extensions contributed to better health. To answer this question, I differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. 
+
+I find that both the introduction and expiry of this program had a negative effect on the general health of long term unemployed job seekers, i.e., those looking for work for more than a year. While the negative health response to the program’s expiry is a response to a cut of benefits, the introduction only represents news on benefit extensions and since information on eligibility of the long term unemployed might have not been clear to them yet, their negative health response could be interpreted as an externality. Mental health is not affected by the introduction and expiry of the program. 
+
+In addition, I design a strategy to assess the effects of the extensions triggered by state level unemployment. These state level changes in benefits improve mental health during August 2008 to December 2008, but not thereafter.
+"""
+abstract_short = "The short answer is: not really!"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -45,7 +52,7 @@ slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["survey data", "fuzzy differences-in-differences", "regression discontinuity"]
+tags = ["survey data", "fuzzy differences-in-differences", "multiple linear regression"]
 
 # Links (optional).
 # url_pdf = ""

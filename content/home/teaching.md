@@ -15,13 +15,15 @@ weight = 11
 
 +++
 
-I am currently a teaching assistant for the following two courses:
 
-- [Public Finance](https://hec.unil.ch/docs/index.php/pstamour/cours/394/informations_generales/) (Fall Semester, Office hours on Tuesdays 2-4pm)
-- Microeconomics (Spring Semester)
+I was a teaching assistant for the following courses:
 
-Past Courses:
-
-- Statistics and Econometrics (Bachelor)
-- Applied Econometrics (Master)
-- Empirical Methods (Bachelor)
+- Introduction à la microéconomie (Université de Genève, Bachelor)
+- Microeconomics (Université de Genève, Master)
+- Macroeconomics (Université de Genève, Master)
+- Economie, Etat et Institutions (Université de Genève, Bachelor)
+- Finances Publiques (Université de Lausanne, Bachelor)
+- Analyse économique: microéconomie (Université de Lausanne, Bachelor)
+- Statistics and Econometrics (Université de Lausanne, Bachelor)
+- Applied Econometrics (Université de Lausanne, Master)
+- Méthodes Empiriques (Université de Lausanne, Bachelor)

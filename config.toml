@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Maha Manai"
-  role = "PhD candidate in Economics"
+  role = "PhD in Economics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,10 +62,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "maha.manai@unil.ch"
-  address = "UNIL-Chamberonne, Internef Building, Office 537, CH-1015 Lausanne"
+  email = "mahemanai@gmail.com"
+  address = ""
   office_hours = ""
-  phone = "+41 21 692 34 74"
+  phone = ""
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -99,8 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
-
+  color_theme = "1950s"
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "classic"
@@ -249,10 +248,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:maha.manai@unil.ch"  # For a direct email link, use "mailto:test@example.org".
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fab"
-  #  link = "https://twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/maha-manai/"
 
   [[params.social]]
     icon = "google-scholar"
@@ -263,6 +262,11 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/mahamanai"
+
+  # [[params.social]]
+  #   icon = "bitbucket"
+  #   icon_pack = "fab"
+  #   link = "https://bitbucket.org/mahesthesis/"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -289,10 +293,10 @@ enableGitInfo = false
 #   url = "#publications_selected"
 #   weight = 2
 #
-# [[menu.main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 6
+ [[menu.main]]
+   name = "Posts"
+   url = "#posts"
+   weight = 3
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -304,22 +308,22 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Conferences"
   url = "#presentations"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 
 # Search.
