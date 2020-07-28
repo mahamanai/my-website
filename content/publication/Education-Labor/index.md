@@ -57,7 +57,7 @@ slides = "example-slides"
 tags = ["administrative data", "regression discontinuity"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1mS8wbGulW1GxzbELtd6CBQsDDDPSbZrY/view?usp=sharing"
+url_pdf = "https://drive.switch.ch/index.php/s/ZpNLQGs8lsRBpik"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

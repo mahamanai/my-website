@@ -48,7 +48,7 @@ projects = []
 tags = ["lab experiment", "finite mixture model", "Structural model"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1f9iZPdkYquhjRoKk03ft8-Syf1YoI19N/view?usp=sharing"
+url_pdf = "https://drive.switch.ch/index.php/s/Qww7jmJddJ8Gh2b"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
@@ -60,7 +60,7 @@ url_pdf = "https://drive.google.com/file/d/1f9iZPdkYquhjRoKk03ft8-Syf1YoI19N/vie
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Online Appendix", url = "https://drive.google.com/file/d/1aKMIef4d-n9iloyCpboVZOTboeviIoxO/view?usp=sharing"}]
+url_custom = [{name = "Online Appendix", url = "https://drive.switch.ch/index.php/s/0dEfey7vyPpdPds"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

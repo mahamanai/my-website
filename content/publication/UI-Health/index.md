@@ -55,14 +55,14 @@ slides = "example-slides"
 tags = ["survey data", "fuzzy differences-in-differences", "multiple linear regression"]
 
 # Links (optional).
- url_pdf = "https://drive.google.com/file/d/1MHR5HoEZtFL8K-jo0ikwHNO1HGjQs_hZ/view?usp=sharing"
+ url_pdf = "https://drive.switch.ch/index.php/s/h5LhylIK1seIA9f"
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""
 # url_project = ""
 # url_slides = ""
 # url_video = ""
-url_poster = "https://drive.google.com/file/d/1HppzqFE80GBMI4V2IRZLRVFxjy3fOAf4/view?usp=sharing"
+url_poster = "https://drive.switch.ch/index.php/s/mzNWkG5yGM4erzd"
 # url_source = ""
 
 # Custom links (optional).
